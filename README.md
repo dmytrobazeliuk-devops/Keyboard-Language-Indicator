@@ -271,12 +271,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Dynamic tray icon with country flags
 - MSI and MSIX installer support
 
-## Support
 
-For issues, questions, or feature requests, please:
-- Open an issue on [GitHub Issues](https://github.com/yourusername/MS_icon_languages/issues)
-- Contact: support@DevSecOps.CV
-- Visit: https://DevSecOps.CV
 
 ---
 
