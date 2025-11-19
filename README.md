@@ -28,18 +28,7 @@ A lightweight Windows desktop utility that displays the current keyboard input l
 2. Click "Get" to install
 3. The app will be automatically updated
 
-### Option 2: MSI Installer
-1. Download `LanguageIndicator.msi` from [Releases](https://github.com/yourusername/MS_icon_languages/releases)
-2. Run the installer
-3. Follow the installation wizard
-4. The app will be installed to `Program Files\LanguageIndicator\`
-
-### Option 3: MSIX Package
-1. Download `LanguageIndicator.msix` from [Releases](https://github.com/yourusername/MS_icon_languages/releases)
-2. Double-click the file to install
-3. Or use PowerShell: `Add-AppxPackage -Path "LanguageIndicator.msix"`
-
-### Option 4: Portable (Manual)
+### Option 2: Portable (Manual)
 1. Download the latest release
 2. Extract to any folder
 3. Ensure the `flags` directory is in the same folder as `LanguageIndicator.exe`
